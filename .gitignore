@@ -1,0 +1,5 @@
+#application.log
+# or
+*.log
+# To ignore all .class files
+*.class
