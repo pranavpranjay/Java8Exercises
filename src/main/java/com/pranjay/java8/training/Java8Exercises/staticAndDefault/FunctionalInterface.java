@@ -1,4 +1,4 @@
-package com.pranjay.java8.training.Java8Exercises.functionalInterface;
+package com.pranjay.java8.training.Java8Exercises.staticAndDefault;
 
 public interface FunctionalInterface {
 

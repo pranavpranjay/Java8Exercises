@@ -1,4 +1,4 @@
-package com.pranjay.java8.training.Java8Exercises.functionalInterface;
+package com.pranjay.java8.training.Java8Exercises.staticAndDefault;
 
 public class Test1 extends Class3 implements FunctionalInterface/*, FunctionalInterface2*/{
 
